@@ -8,12 +8,12 @@
  *
  *  Version:    Date:       Update: 
  *  1.0.0		3.28.11		Identifying object classes & Customization of my first css reset
- *
+ *				3.28.11		Removed code line 16
  */
-
+	
 
 /* Copyright (c) 2010, Yahoo! Inc. All rights reserved. Code licensed under the BSD License: http://developer.yahoo.com/yui/license.html version: 3.3.0 build: 3167 */
-html { color:#000;background:#FFF; }
+/* html { color:#000;background:#FFF; } */
 body,div,dl,dt,dd,ul,ol,li,h1,h2,h3,h4,h5,h6,pre,code,form,fieldset,legend,input,textarea,p,blockquote,th,td { margin:0;padding:0; }
 table { border-collapse:collapse;border-spacing:0; }
 fieldset,img { border:0; }
